@@ -1,0 +1,19 @@
+{
+  "name": "برنامج تحديد مستوى STEP وخطط المذاكرة — أكاديمية عايد",
+  "short_name": "STEP Planner",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff8d6",
+  "theme_color": "#f6c343",
+  "description": "برنامج مجاني يساعدك تحدد مستواك وتطلع لك خطة مذاكرة وجدول حسب وقتك.",
+  "lang": "ar-SA",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='512' height='512'%3E%3Crect width='512' height='512' rx='120' fill='%23f6c343'/%3E%3Ctext x='50%25' y='52%25' text-anchor='middle' dominant-baseline='middle' font-family='Arial' font-size='86' fill='%23111'%3E%F0%9F%93%9D%20STEP%3C/text%3E%3Ctext x='50%25' y='66%25' text-anchor='middle' dominant-baseline='middle' font-family='Arial' font-size='44' fill='%23111'%3EAyed%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="theme-color" content="#f6c343"/>
+  <link rel="manifest" href="./manifest.json"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./assets/styles.css"/>
+  <script src="./assets/site-data.js"></script>
+  <script src="./assets/app.js" defer></script>
+  <title>الاختبار — 50 سؤال</title>
+</head><body>
+<div class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <div class="logo" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none">
+          <path d="M6 4h10a2 2 0 0 1 2 2v14l-4-2-4 2-4-2-4 2V6a2 2 0 0 1 2-2Z" stroke="#111" stroke-width="1.8" stroke-linejoin="round"/>
+        </svg>
+      </div>
+      <div>
+        <div>برنامج تحديد مستوى STEP</div>
+        <small>من أكاديمية عايد</small>
+      </div>
+    </div>
+    <nav class="nav" aria-label="التنقل">
+      <a href="./index.html">الرئيسية</a>
+      <a href="./test.html">الاختبار</a>
+      <a href="./results.html">النتائج</a>
+      <a href="./support.html">الدعم</a>
+    </nav>
+    <div style="display:flex; gap:8px; align-items:center;">
+      <button class="btn" id="shareBtn" type="button">مشاركة</button>
+      <button class="btn btn-primary" id="installBtn" type="button" style="display:none;">تثبيت</button>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <section class="section">
+    <div class="card" id="setupCard">
+      <div class="card-inner">
+        <h2 style="margin:0 0 8px;">قبل نبدأ… خلنا نعرف وضعك</h2>
+        <p class="h-sub">هذي البيانات تساعدنا نطلع لك خطة وجدول (تُحفظ في جهازك فقط).</p>
+
+        <div class="form">
+          <div class="field">
+            <label>اسمك</label>
+            <input id="studentName" placeholder="مثال: عبدالله"/>
+          </div>
+          <div class="field">
+            <label>هدفك</label>
+            <select id="goal">
+              <option value="60+">60+</option><option value="70+" selected>70+</option><option value="80+">80+</option><option value="90+">90+</option><option value="95+">95+</option>
+            </select>
+          </div>
+          <div class="field">
+            <label>منطقتك</label>
+            <input id="region" placeholder="الرياض / جدة / الشرقية"/>
+          </div>
+          <div class="field">
+            <label>موعد اختبارك</label>
+            <select id="timeframe">
+              <option value="lt_24h">أقل من 24 ساعة</option>
+              <option value="lt_3d">أقل من 3 أيام</option>
+              <option value="lt_7d">خلال 7 أيام</option>
+              <option value="lt_month">خلال شهر</option>
+              <option value="no_booking" selected>لسى ما حجزت</option>
+            </select>
+          </div>
+          <div class="field">
+            <label>كم دقيقة تقدر تذاكر يوميًا؟</label>
+            <select id="studyMinutes">
+              <option value="15">15</option><option value="30" selected>30</option><option value="45">45</option><option value="60">60</option><option value="90">90</option>
+            </select>
+          </div>
+          <div class="field">
+            <label>وقت المذاكرة المناسب</label>
+            <select id="studyTime">
+              <option value="morning">صباح</option><option value="afternoon">ظهر</option><option value="evening" selected>مساء</option><option value="night">ليل</option>
+            </select>
+          </div>
+
+          <div class="field">
+            <label>مرحلتك</label>
+            <select id="stage">
+              <option value="hs">ثانوي</option><option value="uni">جامعي</option><option value="grad">دراسات عليا</option><option value="employed">موظف</option><option value="other" selected>أخرى</option>
+            </select>
+          </div>
+
+          <div class="field" id="uniBlock" style="display:none;">
+            <label>تفاصيل الجامعة</label>
+            <div class="form" style="grid-template-columns:1fr 1fr;">
+              <div class="field">
+                <label>مستواك</label>
+                <select id="uniLevel">
+                  <option value="">—</option><option value="freshman">مستجد</option><option value="sophomore">سنة 2</option><option value="junior">سنة 3</option><option value="senior">سنة 4+</option>
+                </select>
+              </div>
+              <div class="field">
+                <label>تخصصك</label>
+                <input id="major" placeholder="مثال: هندسة"/>
+              </div>
+            </div>
+          </div>
+
+          <div class="field">
+            <label>طريقة المذاكرة المفضلة</label>
+            <select id="prefStyle">
+              <option value="short_videos" selected>مقاطع قصيرة منظمة + ملفات + كويزات</option>
+              <option value="live">شرح مباشر (لايف)</option>
+              <option value="self">تدريب ذاتي + نماذج</option>
+              <option value="mixed">مزيج</option>
+            </select>
+          </div>
+
+          <div class="field">
+            <label>هل اختبرت STEP قبل؟</label>
+            <select id="tookStepBefore">
+              <option value="no" selected>لا</option><option value="yes">نعم</option>
+            </select>
+          </div>
+
+          <div class="field" id="prevBlock" style="display:none;">
+            <label>درجتك السابقة</label>
+            <input id="prevScore" placeholder="مثال: 62"/>
+          </div>
+
+          <div class="field" id="targetBlock" style="display:none;">
+            <label>درجتك المستهدفة</label>
+            <input id="targetScore" placeholder="مثال: 80"/>
+          </div>
+
+          <div class="field" style="grid-column:1/-1;">
+            <label>ملاحظات (اختياري)</label>
+            <textarea id="notes" placeholder="مثال: أضعف شيء عندي القراءة…"></textarea>
+          </div>
+        </div>
+
+        <div id="resumeBox" style="display:none; margin-top:12px;">
+          <div class="badge">لقينا محاولة سابقة</div>
+          <div style="margin-top:10px;display:flex;gap:10px;flex-wrap:wrap;">
+            <button class="btn btn-primary" id="resumeBtn" type="button">كمّل</button>
+            <button class="btn" id="restartBtn" type="button">ابدأ من جديد</button>
+          </div>
+        </div>
+
+        <div style="margin-top:14px;display:flex;gap:10px;flex-wrap:wrap;">
+          <button class="btn btn-primary" id="startBtn" type="button">ابدأ الاختبار (50 سؤال)</button>
+          <a class="btn" href="./index.html">رجوع</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="card" id="testCard" style="display:none;">
+      <div class="card-inner">
+        <div style="display:flex;justify-content:space-between;gap:10px;align-items:center;">
+          <div class="badge">اختبار محاكي • 50 سؤال</div>
+          <div style="color:var(--muted);font-weight:900"><span id="qSection"></span> • <span id="qIndex"></span></div>
+        </div>
+        <div class="progress" style="margin-top:10px;"><div id="progressBar"></div></div>
+
+        <div style="margin-top:12px;">
+          <div class="qprompt" id="qPrompt"></div>
+          <div class="options" id="qOptions"></div>
+          <div class="explain" id="qExplain" style="display:none;"></div>
+        </div>
+
+        <div class="split" style="margin-top:12px;">
+          <div class="card" style="box-shadow:none;">
+            <div class="card-inner" style="padding:12px;">
+              <b>تنقل سريع</b>
+              <div class="help">تقدر تروح لأي سؤال مباشرة.</div>
+              <div id="navGrid" style="display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;"></div>
+            </div>
+          </div>
+          <div class="card" style="box-shadow:none;">
+            <div class="card-inner" style="padding:12px;">
+              <b>الأزرار</b>
+              <div class="help">زر (إنهاء) يتفعل بعد ما تجاوب الكل.</div>
+              <div style="margin-top:10px;display:flex;gap:10px;flex-wrap:wrap;">
+                <button class="btn" id="prevBtn" type="button">السابق</button>
+                <button class="btn" id="nextBtn" type="button">التالي</button>
+                <button class="btn btn-primary" id="finishBtn" type="button">إنهاء</button>
+              </div>
+              <div class="help" style="margin-top:10px;">التصحيح والشرح يظهرون بعد اختيارك مباشرة ✅</div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </section>
+</div>
+<div class="footer">
+  <div class="container">
+    <div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center; justify-content:space-between;">
+      <div>© <span id="year"></span> — أكاديمية عايد</div>
+      <div style="display:flex; gap:10px; flex-wrap:wrap;">
+        <a href="./privacy.html">الخصوصية</a>
+        <a href="./terms.html">الشروط</a>
+      </div>
+    </div>
+  </div>
+</div><button class="fab" id="assistantFab" type="button" aria-label="مساعد">
+  <svg viewBox="0 0 24 24" fill="none">
+    <path d="M20 12a7 7 0 0 1-7 7H9l-5 3 1.5-4.5A7 7 0 1 1 20 12Z" stroke="#fff" stroke-width="1.8" stroke-linejoin="round"/>
+    <path d="M8 12h.01M12 12h.01M16 12h.01" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/>
+  </svg>
+</button>
+<div class="chat" id="chat">
+  <div class="chat-head">
+    <div>
+      <div class="chat-title" id="chatTitle"></div>
+      <div class="chat-status" id="chatStatus"></div>
+    </div>
+    <button class="btn" id="chatClose" type="button">إغلاق</button>
+  </div>
+  <div class="chat-body" id="chatBody"></div>
+  <div class="chat-quick" id="chatQuick"></div>
+  <div class="chat-input">
+    <input id="chatInput" type="text" placeholder="اكتب سؤالك هنا…"/>
+    <button class="btn btn-primary" id="chatSend" type="button">إرسال</button>
+  </div>
+</div>
+<div class="toast" id="toast" aria-live="polite"></div>
+<script src="./assets/test.js" defer></script>
+</body></html>

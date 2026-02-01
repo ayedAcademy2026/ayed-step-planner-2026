@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="theme-color" content="#f6c343"/>
+  <link rel="manifest" href="./manifest.json"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./assets/styles.css"/>
+  <script src="./assets/site-data.js"></script>
+  <script src="./assets/app.js" defer></script>
+  <title>الشروط</title>
+</head><body><div class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <div class="logo" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none">
+          <path d="M6 4h10a2 2 0 0 1 2 2v14l-4-2-4 2-4-2-4 2V6a2 2 0 0 1 2-2Z" stroke="#111" stroke-width="1.8" stroke-linejoin="round"/>
+        </svg>
+      </div>
+      <div>
+        <div>برنامج تحديد مستوى STEP</div>
+        <small>من أكاديمية عايد</small>
+      </div>
+    </div>
+    <nav class="nav" aria-label="التنقل">
+      <a href="./index.html">الرئيسية</a>
+      <a href="./test.html">الاختبار</a>
+      <a href="./results.html">النتائج</a>
+      <a href="./support.html">الدعم</a>
+    </nav>
+    <div style="display:flex; gap:8px; align-items:center;">
+      <button class="btn" id="shareBtn" type="button">مشاركة</button>
+      <button class="btn btn-primary" id="installBtn" type="button" style="display:none;">تثبيت</button>
+    </div>
+  </div>
+</div>
+<div class="container"><section class="section"><div class="card"><div class="card-inner">
+<h2>الشروط والأحكام</h2>
+<p class="h-sub">النتائج تقديرية للتوجيه، وليست ضمانًا لدرجة معينة. المحتوى تدريبي (STEP-style) وليس نسخة رسمية.</p>
+<ul style="line-height:2;">
+<li>استخدم البرنامج للتنظيم والتدريب فقط.</li>
+<li>تمنع نسبة بنك الأسئلة لأي جهة رسمية.</li>
+</ul>
+<a class="btn" href="./index.html">رجوع</a>
+</div></div></section></div><div class="footer">
+  <div class="container">
+    <div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center; justify-content:space-between;">
+      <div>© <span id="year"></span> — أكاديمية عايد</div>
+      <div style="display:flex; gap:10px; flex-wrap:wrap;">
+        <a href="./privacy.html">الخصوصية</a>
+        <a href="./terms.html">الشروط</a>
+      </div>
+    </div>
+  </div>
+</div><button class="fab" id="assistantFab" type="button" aria-label="مساعد">
+  <svg viewBox="0 0 24 24" fill="none">
+    <path d="M20 12a7 7 0 0 1-7 7H9l-5 3 1.5-4.5A7 7 0 1 1 20 12Z" stroke="#fff" stroke-width="1.8" stroke-linejoin="round"/>
+    <path d="M8 12h.01M12 12h.01M16 12h.01" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/>
+  </svg>
+</button>
+<div class="chat" id="chat">
+  <div class="chat-head">
+    <div>
+      <div class="chat-title" id="chatTitle"></div>
+      <div class="chat-status" id="chatStatus"></div>
+    </div>
+    <button class="btn" id="chatClose" type="button">إغلاق</button>
+  </div>
+  <div class="chat-body" id="chatBody"></div>
+  <div class="chat-quick" id="chatQuick"></div>
+  <div class="chat-input">
+    <input id="chatInput" type="text" placeholder="اكتب سؤالك هنا…"/>
+    <button class="btn btn-primary" id="chatSend" type="button">إرسال</button>
+  </div>
+</div>
+<div class="toast" id="toast" aria-live="polite"></div></body></html>
