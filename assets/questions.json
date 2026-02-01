@@ -1,0 +1,4482 @@
+[
+  {
+    "id": 1,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"evaluate\"",
+    "options": [
+      "borrow",
+      "celebrate",
+      "assess",
+      "protect"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "الاختيار الصحيح هو **assess** لأن معناها الأقرب لـ \"evaluate\"."
+  },
+  {
+    "id": 2,
+    "section": "Vocabulary",
+    "difficulty": 5,
+    "prompt": "Choose the closest meaning to: \"continue\"",
+    "options": [
+      "stop",
+      "borrow",
+      "admire",
+      "persist"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **persist** لأن معناها الأقرب لـ \"continue\"."
+  },
+  {
+    "id": 3,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"eventually\"",
+    "options": [
+      "briefly",
+      "politely",
+      "rarely",
+      "ultimately"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **ultimately** لأن معناها الأقرب لـ \"eventually\"."
+  },
+  {
+    "id": 4,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"yearly\"",
+    "options": [
+      "briefly",
+      "annually",
+      "rarely",
+      "daily"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **annually** لأن معناها الأقرب لـ \"yearly\"."
+  },
+  {
+    "id": 5,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"sudden\"",
+    "options": [
+      "gradual",
+      "silent",
+      "ancient",
+      "abrupt"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **abrupt** لأن معناها الأقرب لـ \"sudden\"."
+  },
+  {
+    "id": 6,
+    "section": "Vocabulary",
+    "difficulty": 5,
+    "prompt": "Choose the closest meaning to: \"omit\"",
+    "options": [
+      "include",
+      "exclude",
+      "combine",
+      "announce"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **exclude** لأن معناها الأقرب لـ \"omit\"."
+  },
+  {
+    "id": 7,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"clear\"",
+    "options": [
+      "evident",
+      "late",
+      "fragile",
+      "hidden"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **evident** لأن معناها الأقرب لـ \"clear\"."
+  },
+  {
+    "id": 8,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"idea\"",
+    "options": [
+      "engine",
+      "notion",
+      "window",
+      "payment"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **notion** لأن معناها الأقرب لـ \"idea\"."
+  },
+  {
+    "id": 9,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"buy\"",
+    "options": [
+      "purchase",
+      "cancel",
+      "sell",
+      "escape"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **purchase** لأن معناها الأقرب لـ \"buy\"."
+  },
+  {
+    "id": 10,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"pause\"",
+    "options": [
+      "admire",
+      "finish",
+      "rush",
+      "hesitate"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **hesitate** لأن معناها الأقرب لـ \"pause\"."
+  },
+  {
+    "id": 11,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"change\"",
+    "options": [
+      "doubt",
+      "cancel",
+      "freeze",
+      "modify"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **modify** لأن معناها الأقرب لـ \"change\"."
+  },
+  {
+    "id": 12,
+    "section": "Vocabulary",
+    "difficulty": 5,
+    "prompt": "Choose the closest meaning to: \"essential\"",
+    "options": [
+      "minor",
+      "rare",
+      "optional",
+      "vital"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **vital** لأن معناها الأقرب لـ \"essential\"."
+  },
+  {
+    "id": 13,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"possible\"",
+    "options": [
+      "risky",
+      "impossible",
+      "ancient",
+      "feasible"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **feasible** لأن معناها الأقرب لـ \"possible\"."
+  },
+  {
+    "id": 14,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"continuous\"",
+    "options": [
+      "constant",
+      "weak",
+      "rare",
+      "ancient"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **constant** لأن معناها الأقرب لـ \"continuous\"."
+  },
+  {
+    "id": 15,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"mainly\"",
+    "options": [
+      "suddenly",
+      "rarely",
+      "politely",
+      "primarily"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **primarily** لأن معناها الأقرب لـ \"mainly\"."
+  },
+  {
+    "id": 16,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"traditional\"",
+    "options": [
+      "conventional",
+      "tiny",
+      "illegal",
+      "modern"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **conventional** لأن معناها الأقرب لـ \"traditional\"."
+  },
+  {
+    "id": 17,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"recognize\"",
+    "options": [
+      "confuse",
+      "refuse",
+      "identify",
+      "delay"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "الاختيار الصحيح هو **identify** لأن معناها الأقرب لـ \"recognize\"."
+  },
+  {
+    "id": 18,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"local\"",
+    "options": [
+      "foreign",
+      "empty",
+      "ancient",
+      "domestic"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **domestic** لأن معناها الأقرب لـ \"local\"."
+  },
+  {
+    "id": 19,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"reduce\"",
+    "options": [
+      "celebrate",
+      "diminish",
+      "expand",
+      "repeat"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **diminish** لأن معناها الأقرب لـ \"reduce\"."
+  },
+  {
+    "id": 20,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"fast\"",
+    "options": [
+      "slow",
+      "silent",
+      "fragile",
+      "rapid"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **rapid** لأن معناها الأقرب لـ \"fast\"."
+  },
+  {
+    "id": 21,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"hide\"",
+    "options": [
+      "show",
+      "repeat",
+      "conceal",
+      "increase"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "الاختيار الصحيح هو **conceal** لأن معناها الأقرب لـ \"hide\"."
+  },
+  {
+    "id": 22,
+    "section": "Vocabulary",
+    "difficulty": 5,
+    "prompt": "Choose the closest meaning to: \"creative\"",
+    "options": [
+      "minor",
+      "traditional",
+      "angry",
+      "innovative"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **innovative** لأن معناها الأقرب لـ \"creative\"."
+  },
+  {
+    "id": 23,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"reduce\"",
+    "options": [
+      "diminish",
+      "expand",
+      "celebrate",
+      "repeat"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **diminish** لأن معناها الأقرب لـ \"reduce\"."
+  },
+  {
+    "id": 24,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"rare\"",
+    "options": [
+      "scarce",
+      "plentiful",
+      "rapid",
+      "formal"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **scarce** لأن معناها الأقرب لـ \"rare\"."
+  },
+  {
+    "id": 25,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"delay\"",
+    "options": [
+      "combine",
+      "permit",
+      "finish",
+      "suspend"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **suspend** لأن معناها الأقرب لـ \"delay\"."
+  },
+  {
+    "id": 26,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"guarantee\"",
+    "options": [
+      "admire",
+      "cancel",
+      "ensure",
+      "guess"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "الاختيار الصحيح هو **ensure** لأن معناها الأقرب لـ \"guarantee\"."
+  },
+  {
+    "id": 27,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"produce\"",
+    "options": [
+      "forget",
+      "refuse",
+      "generate",
+      "destroy"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "الاختيار الصحيح هو **generate** لأن معناها الأقرب لـ \"produce\"."
+  },
+  {
+    "id": 28,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"miss\"",
+    "options": [
+      "repair",
+      "overlook",
+      "announce",
+      "notice"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **overlook** لأن معناها الأقرب لـ \"miss\"."
+  },
+  {
+    "id": 29,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"evaluate\"",
+    "options": [
+      "assess",
+      "borrow",
+      "protect",
+      "celebrate"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **assess** لأن معناها الأقرب لـ \"evaluate\"."
+  },
+  {
+    "id": 30,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"flourish\"",
+    "options": [
+      "delay",
+      "thrive",
+      "fail",
+      "reduce"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **thrive** لأن معناها الأقرب لـ \"flourish\"."
+  },
+  {
+    "id": 31,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"unwilling\"",
+    "options": [
+      "certain",
+      "eager",
+      "relaxed",
+      "reluctant"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **reluctant** لأن معناها الأقرب لـ \"unwilling\"."
+  },
+  {
+    "id": 32,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"continuous\"",
+    "options": [
+      "ancient",
+      "rare",
+      "weak",
+      "constant"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **constant** لأن معناها الأقرب لـ \"continuous\"."
+  },
+  {
+    "id": 33,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"rare\"",
+    "options": [
+      "scarce",
+      "rapid",
+      "plentiful",
+      "formal"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **scarce** لأن معناها الأقرب لـ \"rare\"."
+  },
+  {
+    "id": 34,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"helpful\"",
+    "options": [
+      "harmful",
+      "beneficial",
+      "empty",
+      "late"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **beneficial** لأن معناها الأقرب لـ \"helpful\"."
+  },
+  {
+    "id": 35,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"increase\"",
+    "options": [
+      "erase",
+      "delay",
+      "reduce",
+      "expand"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **expand** لأن معناها الأقرب لـ \"increase\"."
+  },
+  {
+    "id": 36,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"sudden\"",
+    "options": [
+      "ancient",
+      "abrupt",
+      "silent",
+      "gradual"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **abrupt** لأن معناها الأقرب لـ \"sudden\"."
+  },
+  {
+    "id": 37,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"allow\"",
+    "options": [
+      "break",
+      "enable",
+      "prevent",
+      "divide"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **enable** لأن معناها الأقرب لـ \"allow\"."
+  },
+  {
+    "id": 38,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"recognize\"",
+    "options": [
+      "confuse",
+      "refuse",
+      "identify",
+      "delay"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "الاختيار الصحيح هو **identify** لأن معناها الأقرب لـ \"recognize\"."
+  },
+  {
+    "id": 39,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"remove\"",
+    "options": [
+      "eliminate",
+      "permit",
+      "join",
+      "create"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **eliminate** لأن معناها الأقرب لـ \"remove\"."
+  },
+  {
+    "id": 40,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"mainly\"",
+    "options": [
+      "primarily",
+      "suddenly",
+      "rarely",
+      "politely"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **primarily** لأن معناها الأقرب لـ \"mainly\"."
+  },
+  {
+    "id": 41,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"mainly\"",
+    "options": [
+      "primarily",
+      "rarely",
+      "politely",
+      "suddenly"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **primarily** لأن معناها الأقرب لـ \"mainly\"."
+  },
+  {
+    "id": 42,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"steady\"",
+    "options": [
+      "stable",
+      "noisy",
+      "brief",
+      "unstable"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **stable** لأن معناها الأقرب لـ \"steady\"."
+  },
+  {
+    "id": 43,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"hide\"",
+    "options": [
+      "conceal",
+      "increase",
+      "show",
+      "repeat"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **conceal** لأن معناها الأقرب لـ \"hide\"."
+  },
+  {
+    "id": 44,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"flourish\"",
+    "options": [
+      "reduce",
+      "fail",
+      "thrive",
+      "delay"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "الاختيار الصحيح هو **thrive** لأن معناها الأقرب لـ \"flourish\"."
+  },
+  {
+    "id": 45,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"buy\"",
+    "options": [
+      "purchase",
+      "sell",
+      "escape",
+      "cancel"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **purchase** لأن معناها الأقرب لـ \"buy\"."
+  },
+  {
+    "id": 46,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"dependable\"",
+    "options": [
+      "careless",
+      "weak",
+      "reliable",
+      "angry"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "الاختيار الصحيح هو **reliable** لأن معناها الأقرب لـ \"dependable\"."
+  },
+  {
+    "id": 47,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"preserve\"",
+    "options": [
+      "guess",
+      "borrow",
+      "destroy",
+      "maintain"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **maintain** لأن معناها الأقرب لـ \"preserve\"."
+  },
+  {
+    "id": 48,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"unite\"",
+    "options": [
+      "combine",
+      "sleep",
+      "separate",
+      "remember"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **combine** لأن معناها الأقرب لـ \"unite\"."
+  },
+  {
+    "id": 49,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"unavoidable\"",
+    "options": [
+      "optional",
+      "unlikely",
+      "fragile",
+      "inevitable"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **inevitable** لأن معناها الأقرب لـ \"unavoidable\"."
+  },
+  {
+    "id": 50,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"remove\"",
+    "options": [
+      "permit",
+      "create",
+      "join",
+      "eliminate"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **eliminate** لأن معناها الأقرب لـ \"remove\"."
+  },
+  {
+    "id": 51,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"enormous\"",
+    "options": [
+      "narrow",
+      "vast",
+      "tiny",
+      "brief"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **vast** لأن معناها الأقرب لـ \"enormous\"."
+  },
+  {
+    "id": 52,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"plentiful\"",
+    "options": [
+      "abundant",
+      "fragile",
+      "tiny",
+      "scarce"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **abundant** لأن معناها الأقرب لـ \"plentiful\"."
+  },
+  {
+    "id": 53,
+    "section": "Vocabulary",
+    "difficulty": 5,
+    "prompt": "Choose the closest meaning to: \"required\"",
+    "options": [
+      "random",
+      "mandatory",
+      "optional",
+      "fragile"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **mandatory** لأن معناها الأقرب لـ \"required\"."
+  },
+  {
+    "id": 54,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"helpful\"",
+    "options": [
+      "late",
+      "harmful",
+      "beneficial",
+      "empty"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "الاختيار الصحيح هو **beneficial** لأن معناها الأقرب لـ \"helpful\"."
+  },
+  {
+    "id": 55,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"mainly\"",
+    "options": [
+      "politely",
+      "rarely",
+      "primarily",
+      "suddenly"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "الاختيار الصحيح هو **primarily** لأن معناها الأقرب لـ \"mainly\"."
+  },
+  {
+    "id": 56,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"reduce\"",
+    "options": [
+      "celebrate",
+      "expand",
+      "diminish",
+      "repeat"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "الاختيار الصحيح هو **diminish** لأن معناها الأقرب لـ \"reduce\"."
+  },
+  {
+    "id": 57,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"sound\"",
+    "options": [
+      "valid",
+      "fragile",
+      "wrong",
+      "late"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **valid** لأن معناها الأقرب لـ \"sound\"."
+  },
+  {
+    "id": 58,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"rough\"",
+    "options": [
+      "future",
+      "approximate",
+      "formal",
+      "exact"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **approximate** لأن معناها الأقرب لـ \"rough\"."
+  },
+  {
+    "id": 59,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"forbid\"",
+    "options": [
+      "prohibit",
+      "explain",
+      "assist",
+      "allow"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **prohibit** لأن معناها الأقرب لـ \"forbid\"."
+  },
+  {
+    "id": 60,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"notice\"",
+    "options": [
+      "perceive",
+      "repair",
+      "divide",
+      "forget"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **perceive** لأن معناها الأقرب لـ \"notice\"."
+  },
+  {
+    "id": 61,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"devote\"",
+    "options": [
+      "break",
+      "dedicate",
+      "steal",
+      "avoid"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **dedicate** لأن معناها الأقرب لـ \"devote\"."
+  },
+  {
+    "id": 62,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"use\"",
+    "options": [
+      "utilize",
+      "avoid",
+      "divide",
+      "refuse"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **utilize** لأن معناها الأقرب لـ \"use\"."
+  },
+  {
+    "id": 63,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"obvious\"",
+    "options": [
+      "distant",
+      "apparent",
+      "secret",
+      "awkward"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **apparent** لأن معناها الأقرب لـ \"obvious\"."
+  },
+  {
+    "id": 64,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"obvious\"",
+    "options": [
+      "secret",
+      "apparent",
+      "awkward",
+      "distant"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **apparent** لأن معناها الأقرب لـ \"obvious\"."
+  },
+  {
+    "id": 65,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"forbid\"",
+    "options": [
+      "prohibit",
+      "assist",
+      "explain",
+      "allow"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **prohibit** لأن معناها الأقرب لـ \"forbid\"."
+  },
+  {
+    "id": 66,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"result\"",
+    "options": [
+      "arrival",
+      "method",
+      "friend",
+      "consequence"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **consequence** لأن معناها الأقرب لـ \"result\"."
+  },
+  {
+    "id": 67,
+    "section": "Vocabulary",
+    "difficulty": 5,
+    "prompt": "Choose the closest meaning to: \"guarantee\"",
+    "options": [
+      "guess",
+      "ensure",
+      "cancel",
+      "admire"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **ensure** لأن معناها الأقرب لـ \"guarantee\"."
+  },
+  {
+    "id": 68,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"meet\"",
+    "options": [
+      "encounter",
+      "repair",
+      "refuse",
+      "avoid"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **encounter** لأن معناها الأقرب لـ \"meet\"."
+  },
+  {
+    "id": 69,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"thick\"",
+    "options": [
+      "dense",
+      "clear",
+      "rare",
+      "gentle"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **dense** لأن معناها الأقرب لـ \"thick\"."
+  },
+  {
+    "id": 70,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"eventually\"",
+    "options": [
+      "politely",
+      "rarely",
+      "briefly",
+      "ultimately"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **ultimately** لأن معناها الأقرب لـ \"eventually\"."
+  },
+  {
+    "id": 71,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"stress\"",
+    "options": [
+      "emphasize",
+      "ignore",
+      "borrow",
+      "measure"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **emphasize** لأن معناها الأقرب لـ \"stress\"."
+  },
+  {
+    "id": 72,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"gather\"",
+    "options": [
+      "assemble",
+      "scatter",
+      "refuse",
+      "whisper"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **assemble** لأن معناها الأقرب لـ \"gather\"."
+  },
+  {
+    "id": 73,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"sufficient\"",
+    "options": [
+      "dangerous",
+      "adequate",
+      "unlikely",
+      "brief"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **adequate** لأن معناها الأقرب لـ \"sufficient\"."
+  },
+  {
+    "id": 74,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"buy\"",
+    "options": [
+      "purchase",
+      "cancel",
+      "sell",
+      "escape"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **purchase** لأن معناها الأقرب لـ \"buy\"."
+  },
+  {
+    "id": 75,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"help\"",
+    "options": [
+      "damage",
+      "assistance",
+      "argue",
+      "escape"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **assistance** لأن معناها الأقرب لـ \"help\"."
+  },
+  {
+    "id": 76,
+    "section": "Vocabulary",
+    "difficulty": 5,
+    "prompt": "Choose the closest meaning to: \"change\"",
+    "options": [
+      "deliver",
+      "explain",
+      "collect",
+      "convert"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **convert** لأن معناها الأقرب لـ \"change\"."
+  },
+  {
+    "id": 77,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"help\"",
+    "options": [
+      "assistance",
+      "damage",
+      "escape",
+      "argue"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **assistance** لأن معناها الأقرب لـ \"help\"."
+  },
+  {
+    "id": 78,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"replace\"",
+    "options": [
+      "decorate",
+      "keep",
+      "measure",
+      "substitute"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **substitute** لأن معناها الأقرب لـ \"replace\"."
+  },
+  {
+    "id": 79,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"precise\"",
+    "options": [
+      "accurate",
+      "ordinary",
+      "random",
+      "careless"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **accurate** لأن معناها الأقرب لـ \"precise\"."
+  },
+  {
+    "id": 80,
+    "section": "Vocabulary",
+    "difficulty": 5,
+    "prompt": "Choose the closest meaning to: \"devote\"",
+    "options": [
+      "break",
+      "dedicate",
+      "steal",
+      "avoid"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **dedicate** لأن معناها الأقرب لـ \"devote\"."
+  },
+  {
+    "id": 81,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"fall\"",
+    "options": [
+      "collapse",
+      "appear",
+      "continue",
+      "improve"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **collapse** لأن معناها الأقرب لـ \"fall\"."
+  },
+  {
+    "id": 82,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"encourage\"",
+    "options": [
+      "hide",
+      "promote",
+      "discourage",
+      "divide"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **promote** لأن معناها الأقرب لـ \"encourage\"."
+  },
+  {
+    "id": 83,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"essential\"",
+    "options": [
+      "optional",
+      "distant",
+      "minor",
+      "crucial"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **crucial** لأن معناها الأقرب لـ \"essential\"."
+  },
+  {
+    "id": 84,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"creative\"",
+    "options": [
+      "traditional",
+      "innovative",
+      "minor",
+      "angry"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **innovative** لأن معناها الأقرب لـ \"creative\"."
+  },
+  {
+    "id": 85,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"improve\"",
+    "options": [
+      "damage",
+      "enhance",
+      "hide",
+      "reduce"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **enhance** لأن معناها الأقرب لـ \"improve\"."
+  },
+  {
+    "id": 86,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"hide\"",
+    "options": [
+      "show",
+      "conceal",
+      "repeat",
+      "increase"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **conceal** لأن معناها الأقرب لـ \"hide\"."
+  },
+  {
+    "id": 87,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"severe\"",
+    "options": [
+      "gentle",
+      "brief",
+      "local",
+      "harsh"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **harsh** لأن معناها الأقرب لـ \"severe\"."
+  },
+  {
+    "id": 88,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"helpful\"",
+    "options": [
+      "empty",
+      "late",
+      "harmful",
+      "beneficial"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **beneficial** لأن معناها الأقرب لـ \"helpful\"."
+  },
+  {
+    "id": 89,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"meet\"",
+    "options": [
+      "repair",
+      "refuse",
+      "avoid",
+      "encounter"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **encounter** لأن معناها الأقرب لـ \"meet\"."
+  },
+  {
+    "id": 90,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"separate\"",
+    "options": [
+      "similar",
+      "cheap",
+      "distinct",
+      "loud"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "الاختيار الصحيح هو **distinct** لأن معناها الأقرب لـ \"separate\"."
+  },
+  {
+    "id": 91,
+    "section": "Vocabulary",
+    "difficulty": 5,
+    "prompt": "Choose the closest meaning to: \"replace\"",
+    "options": [
+      "measure",
+      "decorate",
+      "substitute",
+      "keep"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "الاختيار الصحيح هو **substitute** لأن معناها الأقرب لـ \"replace\"."
+  },
+  {
+    "id": 92,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"important\"",
+    "options": [
+      "cheap",
+      "minor",
+      "significant",
+      "late"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "الاختيار الصحيح هو **significant** لأن معناها الأقرب لـ \"important\"."
+  },
+  {
+    "id": 93,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"clear\"",
+    "options": [
+      "evident",
+      "hidden",
+      "fragile",
+      "late"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **evident** لأن معناها الأقرب لـ \"clear\"."
+  },
+  {
+    "id": 94,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"achieve\"",
+    "options": [
+      "avoid",
+      "admire",
+      "cancel",
+      "attain"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **attain** لأن معناها الأقرب لـ \"achieve\"."
+  },
+  {
+    "id": 95,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"support\"",
+    "options": [
+      "measure",
+      "advocate",
+      "deny",
+      "delay"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **advocate** لأن معناها الأقرب لـ \"support\"."
+  },
+  {
+    "id": 96,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"required\"",
+    "options": [
+      "mandatory",
+      "optional",
+      "fragile",
+      "random"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **mandatory** لأن معناها الأقرب لـ \"required\"."
+  },
+  {
+    "id": 97,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"obey\"",
+    "options": [
+      "comply",
+      "invent",
+      "ignore",
+      "argue"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **comply** لأن معناها الأقرب لـ \"obey\"."
+  },
+  {
+    "id": 98,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"meet\"",
+    "options": [
+      "encounter",
+      "avoid",
+      "refuse",
+      "repair"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **encounter** لأن معناها الأقرب لـ \"meet\"."
+  },
+  {
+    "id": 99,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"effective\"",
+    "options": [
+      "efficient",
+      "rude",
+      "wasteful",
+      "weak"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **efficient** لأن معناها الأقرب لـ \"effective\"."
+  },
+  {
+    "id": 100,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"creative\"",
+    "options": [
+      "minor",
+      "innovative",
+      "angry",
+      "traditional"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **innovative** لأن معناها الأقرب لـ \"creative\"."
+  },
+  {
+    "id": 101,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"separate\"",
+    "options": [
+      "distinct",
+      "similar",
+      "loud",
+      "cheap"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **distinct** لأن معناها الأقرب لـ \"separate\"."
+  },
+  {
+    "id": 102,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"forecast\"",
+    "options": [
+      "predict",
+      "divide",
+      "forget",
+      "repair"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **predict** لأن معناها الأقرب لـ \"forecast\"."
+  },
+  {
+    "id": 103,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"carry out\"",
+    "options": [
+      "explain",
+      "implement",
+      "forget",
+      "reject"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **implement** لأن معناها الأقرب لـ \"carry out\"."
+  },
+  {
+    "id": 104,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"devote\"",
+    "options": [
+      "break",
+      "steal",
+      "dedicate",
+      "avoid"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "الاختيار الصحيح هو **dedicate** لأن معناها الأقرب لـ \"devote\"."
+  },
+  {
+    "id": 105,
+    "section": "Vocabulary",
+    "difficulty": 5,
+    "prompt": "Choose the closest meaning to: \"recognize\"",
+    "options": [
+      "refuse",
+      "delay",
+      "confuse",
+      "identify"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **identify** لأن معناها الأقرب لـ \"recognize\"."
+  },
+  {
+    "id": 106,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"meet\"",
+    "options": [
+      "avoid",
+      "repair",
+      "refuse",
+      "encounter"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **encounter** لأن معناها الأقرب لـ \"meet\"."
+  },
+  {
+    "id": 107,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"aspiring\"",
+    "options": [
+      "ambitious",
+      "minor",
+      "unclear",
+      "lazy"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **ambitious** لأن معناها الأقرب لـ \"aspiring\"."
+  },
+  {
+    "id": 108,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"flourish\"",
+    "options": [
+      "reduce",
+      "thrive",
+      "fail",
+      "delay"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **thrive** لأن معناها الأقرب لـ \"flourish\"."
+  },
+  {
+    "id": 109,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"conclude\"",
+    "options": [
+      "decorate",
+      "infer",
+      "separate",
+      "borrow"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **infer** لأن معناها الأقرب لـ \"conclude\"."
+  },
+  {
+    "id": 110,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"effective\"",
+    "options": [
+      "rude",
+      "efficient",
+      "wasteful",
+      "weak"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **efficient** لأن معناها الأقرب لـ \"effective\"."
+  },
+  {
+    "id": 111,
+    "section": "Vocabulary",
+    "difficulty": 5,
+    "prompt": "Choose the closest meaning to: \"rare\"",
+    "options": [
+      "plentiful",
+      "scarce",
+      "rapid",
+      "formal"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **scarce** لأن معناها الأقرب لـ \"rare\"."
+  },
+  {
+    "id": 112,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"essential\"",
+    "options": [
+      "optional",
+      "rare",
+      "minor",
+      "vital"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **vital** لأن معناها الأقرب لـ \"essential\"."
+  },
+  {
+    "id": 113,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"uncertain\"",
+    "options": [
+      "certain",
+      "basic",
+      "tentative",
+      "rapid"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "الاختيار الصحيح هو **tentative** لأن معناها الأقرب لـ \"uncertain\"."
+  },
+  {
+    "id": 114,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"evaluate\"",
+    "options": [
+      "celebrate",
+      "assess",
+      "borrow",
+      "protect"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "الاختيار الصحيح هو **assess** لأن معناها الأقرب لـ \"evaluate\"."
+  },
+  {
+    "id": 115,
+    "section": "Vocabulary",
+    "difficulty": 2,
+    "prompt": "Choose the closest meaning to: \"achieve\"",
+    "options": [
+      "attain",
+      "cancel",
+      "avoid",
+      "admire"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **attain** لأن معناها الأقرب لـ \"achieve\"."
+  },
+  {
+    "id": 116,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"idea\"",
+    "options": [
+      "notion",
+      "payment",
+      "window",
+      "engine"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **notion** لأن معناها الأقرب لـ \"idea\"."
+  },
+  {
+    "id": 117,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"severe\"",
+    "options": [
+      "local",
+      "gentle",
+      "brief",
+      "harsh"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **harsh** لأن معناها الأقرب لـ \"severe\"."
+  },
+  {
+    "id": 118,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"replace\"",
+    "options": [
+      "keep",
+      "measure",
+      "substitute",
+      "decorate"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "الاختيار الصحيح هو **substitute** لأن معناها الأقرب لـ \"replace\"."
+  },
+  {
+    "id": 119,
+    "section": "Vocabulary",
+    "difficulty": 3,
+    "prompt": "Choose the closest meaning to: \"obvious\"",
+    "options": [
+      "awkward",
+      "secret",
+      "distant",
+      "apparent"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "الاختيار الصحيح هو **apparent** لأن معناها الأقرب لـ \"obvious\"."
+  },
+  {
+    "id": 120,
+    "section": "Vocabulary",
+    "difficulty": 4,
+    "prompt": "Choose the closest meaning to: \"meet\"",
+    "options": [
+      "encounter",
+      "repair",
+      "avoid",
+      "refuse"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "الاختيار الصحيح هو **encounter** لأن معناها الأقرب لـ \"meet\"."
+  },
+  {
+    "id": 121,
+    "section": "Grammar",
+    "difficulty": 2,
+    "prompt": "The report, along with the charts, ___ ready.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Singular subject 'report' → is."
+  },
+  {
+    "id": 122,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "How ___ money do we need to raise?",
+    "options": [
+      "many",
+      "much",
+      "few",
+      "several"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Money is uncountable → much."
+  },
+  {
+    "id": 123,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "How ___ money do we need to raise?",
+    "options": [
+      "many",
+      "much",
+      "few",
+      "several"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Money is uncountable → much."
+  },
+  {
+    "id": 124,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "If it ___ tomorrow, we'll stay home.",
+    "options": [
+      "rains",
+      "rained",
+      "will rain",
+      "rain"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "توضيح: First conditional: If + present simple."
+  },
+  {
+    "id": 125,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "I prefer studying at night ___ in the morning.",
+    "options": [
+      "than",
+      "to",
+      "over",
+      "from"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Prefer A to B."
+  },
+  {
+    "id": 126,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "Not only ___ late, but he also forgot the documents.",
+    "options": [
+      "he was",
+      "was he",
+      "he is",
+      "is he"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Inversion after 'Not only'."
+  },
+  {
+    "id": 127,
+    "section": "Grammar",
+    "difficulty": 2,
+    "prompt": "If it ___ tomorrow, we'll stay home.",
+    "options": [
+      "rains",
+      "rained",
+      "will rain",
+      "rain"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "توضيح: First conditional: If + present simple."
+  },
+  {
+    "id": 128,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "Neither the manager nor the employees ___ satisfied.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Verb agrees with the nearest subject (employees → were)."
+  },
+  {
+    "id": 129,
+    "section": "Grammar",
+    "difficulty": 5,
+    "prompt": "By next week, they ___ the new system.",
+    "options": [
+      "install",
+      "will install",
+      "will have installed",
+      "installed"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "توضيح: Future perfect for completion before a future time."
+  },
+  {
+    "id": 130,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "How ___ money do we need to raise?",
+    "options": [
+      "many",
+      "much",
+      "few",
+      "several"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Money is uncountable → much."
+  },
+  {
+    "id": 131,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "If she ___ earlier, she would have caught the bus.",
+    "options": [
+      "left",
+      "had left",
+      "would leave",
+      "has left"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Third conditional: If + past perfect, would have + V3."
+  },
+  {
+    "id": 132,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "I would rather you ___ here.",
+    "options": [
+      "stay",
+      "stayed",
+      "staying",
+      "to stay"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Would rather + past simple for present preference."
+  },
+  {
+    "id": 133,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "How ___ money do we need to raise?",
+    "options": [
+      "many",
+      "much",
+      "few",
+      "several"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Money is uncountable → much."
+  },
+  {
+    "id": 134,
+    "section": "Grammar",
+    "difficulty": 2,
+    "prompt": "The lecture was so difficult that I could ___ understand it.",
+    "options": [
+      "hardly",
+      "nearly",
+      "mostly",
+      "clearly"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "توضيح: Hardly = almost not."
+  },
+  {
+    "id": 135,
+    "section": "Grammar",
+    "difficulty": 5,
+    "prompt": "The book ___ on the table belongs to me.",
+    "options": [
+      "laying",
+      "lying",
+      "lay",
+      "lie"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: The book is lying (present participle)."
+  },
+  {
+    "id": 136,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "I look forward to ___ from you soon.",
+    "options": [
+      "hear",
+      "hearing",
+      "heard",
+      "to hear"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Look forward to + V-ing."
+  },
+  {
+    "id": 137,
+    "section": "Grammar",
+    "difficulty": 2,
+    "prompt": "If she ___ earlier, she would have caught the bus.",
+    "options": [
+      "left",
+      "had left",
+      "would leave",
+      "has left"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Third conditional: If + past perfect, would have + V3."
+  },
+  {
+    "id": 138,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "Hardly had we arrived ___ the lights went out.",
+    "options": [
+      "than",
+      "when",
+      "because",
+      "so"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Hardly...when."
+  },
+  {
+    "id": 139,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "She insisted that he ___ on time.",
+    "options": [
+      "is",
+      "was",
+      "be",
+      "to be"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "توضيح: Subjunctive after insist: base verb 'be'."
+  },
+  {
+    "id": 140,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "I look forward to ___ from you soon.",
+    "options": [
+      "hear",
+      "hearing",
+      "heard",
+      "to hear"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Look forward to + V-ing."
+  },
+  {
+    "id": 141,
+    "section": "Grammar",
+    "difficulty": 5,
+    "prompt": "The report, along with the charts, ___ ready.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Singular subject 'report' → is."
+  },
+  {
+    "id": 142,
+    "section": "Grammar",
+    "difficulty": 2,
+    "prompt": "The students ___ the exam when the alarm rang.",
+    "options": [
+      "took",
+      "were taking",
+      "have taken",
+      "had taken"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Past continuous for ongoing action interrupted."
+  },
+  {
+    "id": 143,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "She ___ her homework before she went out.",
+    "options": [
+      "finished",
+      "had finished",
+      "has finished",
+      "finishes"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Past perfect before another past action."
+  },
+  {
+    "id": 144,
+    "section": "Grammar",
+    "difficulty": 5,
+    "prompt": "Each of the answers ___ correct.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Each + singular verb."
+  },
+  {
+    "id": 145,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "She ___ her homework before she went out.",
+    "options": [
+      "finished",
+      "had finished",
+      "has finished",
+      "finishes"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Past perfect before another past action."
+  },
+  {
+    "id": 146,
+    "section": "Grammar",
+    "difficulty": 2,
+    "prompt": "Hardly had we arrived ___ the lights went out.",
+    "options": [
+      "than",
+      "when",
+      "because",
+      "so"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Hardly...when."
+  },
+  {
+    "id": 147,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "If she ___ earlier, she would have caught the bus.",
+    "options": [
+      "left",
+      "had left",
+      "would leave",
+      "has left"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Third conditional: If + past perfect, would have + V3."
+  },
+  {
+    "id": 148,
+    "section": "Grammar",
+    "difficulty": 2,
+    "prompt": "You ___ to bring your ID; it’s required.",
+    "options": [
+      "might",
+      "must",
+      "could",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Must = obligation."
+  },
+  {
+    "id": 149,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "The report, along with the charts, ___ ready.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Singular subject 'report' → is."
+  },
+  {
+    "id": 150,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "Each of the answers ___ correct.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Each + singular verb."
+  },
+  {
+    "id": 151,
+    "section": "Grammar",
+    "difficulty": 5,
+    "prompt": "Not only ___ late, but he also forgot the documents.",
+    "options": [
+      "he was",
+      "was he",
+      "he is",
+      "is he"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Inversion after 'Not only'."
+  },
+  {
+    "id": 152,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "If it ___ tomorrow, we'll stay home.",
+    "options": [
+      "rains",
+      "rained",
+      "will rain",
+      "rain"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "توضيح: First conditional: If + present simple."
+  },
+  {
+    "id": 153,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "The lecture was so difficult that I could ___ understand it.",
+    "options": [
+      "hardly",
+      "nearly",
+      "mostly",
+      "clearly"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "توضيح: Hardly = almost not."
+  },
+  {
+    "id": 154,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "I prefer studying at night ___ in the morning.",
+    "options": [
+      "than",
+      "to",
+      "over",
+      "from"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Prefer A to B."
+  },
+  {
+    "id": 155,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "How ___ money do we need to raise?",
+    "options": [
+      "many",
+      "much",
+      "few",
+      "several"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Money is uncountable → much."
+  },
+  {
+    "id": 156,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "If it ___ tomorrow, we'll stay home.",
+    "options": [
+      "rains",
+      "rained",
+      "will rain",
+      "rain"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "توضيح: First conditional: If + present simple."
+  },
+  {
+    "id": 157,
+    "section": "Grammar",
+    "difficulty": 5,
+    "prompt": "Neither the manager nor the employees ___ satisfied.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Verb agrees with the nearest subject (employees → were)."
+  },
+  {
+    "id": 158,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "Not only ___ late, but he also forgot the documents.",
+    "options": [
+      "he was",
+      "was he",
+      "he is",
+      "is he"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Inversion after 'Not only'."
+  },
+  {
+    "id": 159,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "If she ___ earlier, she would have caught the bus.",
+    "options": [
+      "left",
+      "had left",
+      "would leave",
+      "has left"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Third conditional: If + past perfect, would have + V3."
+  },
+  {
+    "id": 160,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "The lecture was so difficult that I could ___ understand it.",
+    "options": [
+      "hardly",
+      "nearly",
+      "mostly",
+      "clearly"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "توضيح: Hardly = almost not."
+  },
+  {
+    "id": 161,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "I would rather you ___ here.",
+    "options": [
+      "stay",
+      "stayed",
+      "staying",
+      "to stay"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Would rather + past simple for present preference."
+  },
+  {
+    "id": 162,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "The lecture was so difficult that I could ___ understand it.",
+    "options": [
+      "hardly",
+      "nearly",
+      "mostly",
+      "clearly"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "توضيح: Hardly = almost not."
+  },
+  {
+    "id": 163,
+    "section": "Grammar",
+    "difficulty": 5,
+    "prompt": "Each of the answers ___ correct.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Each + singular verb."
+  },
+  {
+    "id": 164,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "He has lived here ___ 2018.",
+    "options": [
+      "for",
+      "since",
+      "during",
+      "from"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Since + point in time."
+  },
+  {
+    "id": 165,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "I look forward to ___ from you soon.",
+    "options": [
+      "hear",
+      "hearing",
+      "heard",
+      "to hear"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Look forward to + V-ing."
+  },
+  {
+    "id": 166,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "Neither the manager nor the employees ___ satisfied.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Verb agrees with the nearest subject (employees → were)."
+  },
+  {
+    "id": 167,
+    "section": "Grammar",
+    "difficulty": 5,
+    "prompt": "This is the best movie I ___ in years.",
+    "options": [
+      "see",
+      "saw",
+      "have seen",
+      "had seen"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "توضيح: With 'in years' and present perspective → present perfect."
+  },
+  {
+    "id": 168,
+    "section": "Grammar",
+    "difficulty": 5,
+    "prompt": "Each of the answers ___ correct.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Each + singular verb."
+  },
+  {
+    "id": 169,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "The book ___ on the table belongs to me.",
+    "options": [
+      "laying",
+      "lying",
+      "lay",
+      "lie"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: The book is lying (present participle)."
+  },
+  {
+    "id": 170,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "Not only ___ late, but he also forgot the documents.",
+    "options": [
+      "he was",
+      "was he",
+      "he is",
+      "is he"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Inversion after 'Not only'."
+  },
+  {
+    "id": 171,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "This is the best movie I ___ in years.",
+    "options": [
+      "see",
+      "saw",
+      "have seen",
+      "had seen"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "توضيح: With 'in years' and present perspective → present perfect."
+  },
+  {
+    "id": 172,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "Each of the answers ___ correct.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Each + singular verb."
+  },
+  {
+    "id": 173,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "If it ___ tomorrow, we'll stay home.",
+    "options": [
+      "rains",
+      "rained",
+      "will rain",
+      "rain"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "توضيح: First conditional: If + present simple."
+  },
+  {
+    "id": 174,
+    "section": "Grammar",
+    "difficulty": 5,
+    "prompt": "If it ___ tomorrow, we'll stay home.",
+    "options": [
+      "rains",
+      "rained",
+      "will rain",
+      "rain"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "توضيح: First conditional: If + present simple."
+  },
+  {
+    "id": 175,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "If it ___ tomorrow, we'll stay home.",
+    "options": [
+      "rains",
+      "rained",
+      "will rain",
+      "rain"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "توضيح: First conditional: If + present simple."
+  },
+  {
+    "id": 176,
+    "section": "Grammar",
+    "difficulty": 2,
+    "prompt": "The report, along with the charts, ___ ready.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Singular subject 'report' → is."
+  },
+  {
+    "id": 177,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "The book ___ on the table belongs to me.",
+    "options": [
+      "laying",
+      "lying",
+      "lay",
+      "lie"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: The book is lying (present participle)."
+  },
+  {
+    "id": 178,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "How ___ money do we need to raise?",
+    "options": [
+      "many",
+      "much",
+      "few",
+      "several"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Money is uncountable → much."
+  },
+  {
+    "id": 179,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "Each of the answers ___ correct.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Each + singular verb."
+  },
+  {
+    "id": 180,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "By next week, they ___ the new system.",
+    "options": [
+      "install",
+      "will install",
+      "will have installed",
+      "installed"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "توضيح: Future perfect for completion before a future time."
+  },
+  {
+    "id": 181,
+    "section": "Grammar",
+    "difficulty": 2,
+    "prompt": "I look forward to ___ from you soon.",
+    "options": [
+      "hear",
+      "hearing",
+      "heard",
+      "to hear"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Look forward to + V-ing."
+  },
+  {
+    "id": 182,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "I would rather you ___ here.",
+    "options": [
+      "stay",
+      "stayed",
+      "staying",
+      "to stay"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Would rather + past simple for present preference."
+  },
+  {
+    "id": 183,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "I look forward to ___ from you soon.",
+    "options": [
+      "hear",
+      "hearing",
+      "heard",
+      "to hear"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Look forward to + V-ing."
+  },
+  {
+    "id": 184,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "Each of the answers ___ correct.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Each + singular verb."
+  },
+  {
+    "id": 185,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "Hardly had we arrived ___ the lights went out.",
+    "options": [
+      "than",
+      "when",
+      "because",
+      "so"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Hardly...when."
+  },
+  {
+    "id": 186,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "I look forward to ___ from you soon.",
+    "options": [
+      "hear",
+      "hearing",
+      "heard",
+      "to hear"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Look forward to + V-ing."
+  },
+  {
+    "id": 187,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "Not only ___ late, but he also forgot the documents.",
+    "options": [
+      "he was",
+      "was he",
+      "he is",
+      "is he"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Inversion after 'Not only'."
+  },
+  {
+    "id": 188,
+    "section": "Grammar",
+    "difficulty": 5,
+    "prompt": "The book ___ on the table belongs to me.",
+    "options": [
+      "laying",
+      "lying",
+      "lay",
+      "lie"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: The book is lying (present participle)."
+  },
+  {
+    "id": 189,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "If it ___ tomorrow, we'll stay home.",
+    "options": [
+      "rains",
+      "rained",
+      "will rain",
+      "rain"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "توضيح: First conditional: If + present simple."
+  },
+  {
+    "id": 190,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "He has lived here ___ 2018.",
+    "options": [
+      "for",
+      "since",
+      "during",
+      "from"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Since + point in time."
+  },
+  {
+    "id": 191,
+    "section": "Grammar",
+    "difficulty": 5,
+    "prompt": "I prefer studying at night ___ in the morning.",
+    "options": [
+      "than",
+      "to",
+      "over",
+      "from"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Prefer A to B."
+  },
+  {
+    "id": 192,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "The book ___ on the table belongs to me.",
+    "options": [
+      "laying",
+      "lying",
+      "lay",
+      "lie"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: The book is lying (present participle)."
+  },
+  {
+    "id": 193,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "Hardly had we arrived ___ the lights went out.",
+    "options": [
+      "than",
+      "when",
+      "because",
+      "so"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Hardly...when."
+  },
+  {
+    "id": 194,
+    "section": "Grammar",
+    "difficulty": 5,
+    "prompt": "The book ___ on the table belongs to me.",
+    "options": [
+      "laying",
+      "lying",
+      "lay",
+      "lie"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: The book is lying (present participle)."
+  },
+  {
+    "id": 195,
+    "section": "Grammar",
+    "difficulty": 5,
+    "prompt": "Hardly had we arrived ___ the lights went out.",
+    "options": [
+      "than",
+      "when",
+      "because",
+      "so"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Hardly...when."
+  },
+  {
+    "id": 196,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "Hardly had we arrived ___ the lights went out.",
+    "options": [
+      "than",
+      "when",
+      "because",
+      "so"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Hardly...when."
+  },
+  {
+    "id": 197,
+    "section": "Grammar",
+    "difficulty": 2,
+    "prompt": "She ___ her homework before she went out.",
+    "options": [
+      "finished",
+      "had finished",
+      "has finished",
+      "finishes"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Past perfect before another past action."
+  },
+  {
+    "id": 198,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "Neither the manager nor the employees ___ satisfied.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Verb agrees with the nearest subject (employees → were)."
+  },
+  {
+    "id": 199,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "The students ___ the exam when the alarm rang.",
+    "options": [
+      "took",
+      "were taking",
+      "have taken",
+      "had taken"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Past continuous for ongoing action interrupted."
+  },
+  {
+    "id": 200,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "Hardly had we arrived ___ the lights went out.",
+    "options": [
+      "than",
+      "when",
+      "because",
+      "so"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Hardly...when."
+  },
+  {
+    "id": 201,
+    "section": "Grammar",
+    "difficulty": 5,
+    "prompt": "The book ___ on the table belongs to me.",
+    "options": [
+      "laying",
+      "lying",
+      "lay",
+      "lie"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: The book is lying (present participle)."
+  },
+  {
+    "id": 202,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "The lecture was so difficult that I could ___ understand it.",
+    "options": [
+      "hardly",
+      "nearly",
+      "mostly",
+      "clearly"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "توضيح: Hardly = almost not."
+  },
+  {
+    "id": 203,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "I would rather you ___ here.",
+    "options": [
+      "stay",
+      "stayed",
+      "staying",
+      "to stay"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Would rather + past simple for present preference."
+  },
+  {
+    "id": 204,
+    "section": "Grammar",
+    "difficulty": 5,
+    "prompt": "The report, along with the charts, ___ ready.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Singular subject 'report' → is."
+  },
+  {
+    "id": 205,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "Neither the manager nor the employees ___ satisfied.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Verb agrees with the nearest subject (employees → were)."
+  },
+  {
+    "id": 206,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "Hardly had we arrived ___ the lights went out.",
+    "options": [
+      "than",
+      "when",
+      "because",
+      "so"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Hardly...when."
+  },
+  {
+    "id": 207,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "I prefer studying at night ___ in the morning.",
+    "options": [
+      "than",
+      "to",
+      "over",
+      "from"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Prefer A to B."
+  },
+  {
+    "id": 208,
+    "section": "Grammar",
+    "difficulty": 2,
+    "prompt": "The book ___ on the table belongs to me.",
+    "options": [
+      "laying",
+      "lying",
+      "lay",
+      "lie"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: The book is lying (present participle)."
+  },
+  {
+    "id": 209,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "The students ___ the exam when the alarm rang.",
+    "options": [
+      "took",
+      "were taking",
+      "have taken",
+      "had taken"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Past continuous for ongoing action interrupted."
+  },
+  {
+    "id": 210,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "Each of the answers ___ correct.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Each + singular verb."
+  },
+  {
+    "id": 211,
+    "section": "Grammar",
+    "difficulty": 2,
+    "prompt": "The book ___ on the table belongs to me.",
+    "options": [
+      "laying",
+      "lying",
+      "lay",
+      "lie"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: The book is lying (present participle)."
+  },
+  {
+    "id": 212,
+    "section": "Grammar",
+    "difficulty": 5,
+    "prompt": "I would rather you ___ here.",
+    "options": [
+      "stay",
+      "stayed",
+      "staying",
+      "to stay"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Would rather + past simple for present preference."
+  },
+  {
+    "id": 213,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "You ___ to bring your ID; it’s required.",
+    "options": [
+      "might",
+      "must",
+      "could",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Must = obligation."
+  },
+  {
+    "id": 214,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "If it ___ tomorrow, we'll stay home.",
+    "options": [
+      "rains",
+      "rained",
+      "will rain",
+      "rain"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "توضيح: First conditional: If + present simple."
+  },
+  {
+    "id": 215,
+    "section": "Grammar",
+    "difficulty": 2,
+    "prompt": "Each of the answers ___ correct.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Each + singular verb."
+  },
+  {
+    "id": 216,
+    "section": "Grammar",
+    "difficulty": 2,
+    "prompt": "Not only ___ late, but he also forgot the documents.",
+    "options": [
+      "he was",
+      "was he",
+      "he is",
+      "is he"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Inversion after 'Not only'."
+  },
+  {
+    "id": 217,
+    "section": "Grammar",
+    "difficulty": 2,
+    "prompt": "Neither the manager nor the employees ___ satisfied.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Verb agrees with the nearest subject (employees → were)."
+  },
+  {
+    "id": 218,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "The lecture was so difficult that I could ___ understand it.",
+    "options": [
+      "hardly",
+      "nearly",
+      "mostly",
+      "clearly"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "توضيح: Hardly = almost not."
+  },
+  {
+    "id": 219,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "How ___ money do we need to raise?",
+    "options": [
+      "many",
+      "much",
+      "few",
+      "several"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Money is uncountable → much."
+  },
+  {
+    "id": 220,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "If she ___ earlier, she would have caught the bus.",
+    "options": [
+      "left",
+      "had left",
+      "would leave",
+      "has left"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Third conditional: If + past perfect, would have + V3."
+  },
+  {
+    "id": 221,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "Each of the answers ___ correct.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Each + singular verb."
+  },
+  {
+    "id": 222,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "This is the best movie I ___ in years.",
+    "options": [
+      "see",
+      "saw",
+      "have seen",
+      "had seen"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "توضيح: With 'in years' and present perspective → present perfect."
+  },
+  {
+    "id": 223,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "You ___ to bring your ID; it’s required.",
+    "options": [
+      "might",
+      "must",
+      "could",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Must = obligation."
+  },
+  {
+    "id": 224,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "The report, along with the charts, ___ ready.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Singular subject 'report' → is."
+  },
+  {
+    "id": 225,
+    "section": "Grammar",
+    "difficulty": 5,
+    "prompt": "She insisted that he ___ on time.",
+    "options": [
+      "is",
+      "was",
+      "be",
+      "to be"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "توضيح: Subjunctive after insist: base verb 'be'."
+  },
+  {
+    "id": 226,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "Not only ___ late, but he also forgot the documents.",
+    "options": [
+      "he was",
+      "was he",
+      "he is",
+      "is he"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Inversion after 'Not only'."
+  },
+  {
+    "id": 227,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "The lecture was so difficult that I could ___ understand it.",
+    "options": [
+      "hardly",
+      "nearly",
+      "mostly",
+      "clearly"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "توضيح: Hardly = almost not."
+  },
+  {
+    "id": 228,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "The book ___ on the table belongs to me.",
+    "options": [
+      "laying",
+      "lying",
+      "lay",
+      "lie"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: The book is lying (present participle)."
+  },
+  {
+    "id": 229,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "You ___ to bring your ID; it’s required.",
+    "options": [
+      "might",
+      "must",
+      "could",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Must = obligation."
+  },
+  {
+    "id": 230,
+    "section": "Grammar",
+    "difficulty": 5,
+    "prompt": "The lecture was so difficult that I could ___ understand it.",
+    "options": [
+      "hardly",
+      "nearly",
+      "mostly",
+      "clearly"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "توضيح: Hardly = almost not."
+  },
+  {
+    "id": 231,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "I look forward to ___ from you soon.",
+    "options": [
+      "hear",
+      "hearing",
+      "heard",
+      "to hear"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Look forward to + V-ing."
+  },
+  {
+    "id": 232,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "I would rather you ___ here.",
+    "options": [
+      "stay",
+      "stayed",
+      "staying",
+      "to stay"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Would rather + past simple for present preference."
+  },
+  {
+    "id": 233,
+    "section": "Grammar",
+    "difficulty": 4,
+    "prompt": "I prefer studying at night ___ in the morning.",
+    "options": [
+      "than",
+      "to",
+      "over",
+      "from"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Prefer A to B."
+  },
+  {
+    "id": 234,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "This is the best movie I ___ in years.",
+    "options": [
+      "see",
+      "saw",
+      "have seen",
+      "had seen"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "توضيح: With 'in years' and present perspective → present perfect."
+  },
+  {
+    "id": 235,
+    "section": "Grammar",
+    "difficulty": 2,
+    "prompt": "I look forward to ___ from you soon.",
+    "options": [
+      "hear",
+      "hearing",
+      "heard",
+      "to hear"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Look forward to + V-ing."
+  },
+  {
+    "id": 236,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "This is the best movie I ___ in years.",
+    "options": [
+      "see",
+      "saw",
+      "have seen",
+      "had seen"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "توضيح: With 'in years' and present perspective → present perfect."
+  },
+  {
+    "id": 237,
+    "section": "Grammar",
+    "difficulty": 5,
+    "prompt": "I prefer studying at night ___ in the morning.",
+    "options": [
+      "than",
+      "to",
+      "over",
+      "from"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Prefer A to B."
+  },
+  {
+    "id": 238,
+    "section": "Grammar",
+    "difficulty": 2,
+    "prompt": "The report, along with the charts, ___ ready.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Singular subject 'report' → is."
+  },
+  {
+    "id": 239,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "The report, along with the charts, ___ ready.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "be"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Singular subject 'report' → is."
+  },
+  {
+    "id": 240,
+    "section": "Grammar",
+    "difficulty": 3,
+    "prompt": "You ___ to bring your ID; it’s required.",
+    "options": [
+      "might",
+      "must",
+      "could",
+      "may"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "توضيح: Must = obligation."
+  },
+  {
+    "id": 241,
+    "section": "Reading",
+    "difficulty": 5,
+    "prompt": "Passage: \"Expanding bus routes can reduce traffic, but only if schedules are reliable. When buses arrive unpredictably, commuters return to private cars.\"\nQuestion: What is the key condition?",
+    "options": [
+      "Bus routes should be shorter",
+      "Traffic cannot be reduced",
+      "Cars are faster than buses",
+      "Reliable schedules encourage people to use buses"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: Reliability determines adoption."
+  },
+  {
+    "id": 242,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Online courses can offer flexibility, but learners may need strong self‑discipline. Without a routine, many postpone lessons and fall behind.\"\nQuestion: What does the passage suggest?",
+    "options": [
+      "Flexibility requires self‑discipline to succeed",
+      "Online learning is always easier",
+      "Postponing improves results",
+      "Routines are unnecessary"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "التوضيح: It contrasts flexibility with discipline."
+  },
+  {
+    "id": 243,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Sleep researchers found that consistent bedtimes were linked to better memory. Students with irregular schedules scored lower even when they slept the same total hours.\"\nQuestion: What is the best conclusion?",
+    "options": [
+      "Consistency in sleep schedule may matter as much as total sleep time",
+      "Total hours are the only factor",
+      "Memory cannot be improved",
+      "Students should sleep less"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "التوضيح: The key comparison is consistent vs irregular schedules."
+  },
+  {
+    "id": 244,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Nutritionists recommend adding vegetables gradually rather than making drastic changes overnight. Slow adjustments are more likely to become lasting habits.\"\nQuestion: Why gradual change?",
+    "options": [
+      "It is cheaper",
+      "It requires no planning",
+      "It is easier to maintain as a habit",
+      "It prevents all cravings immediately"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "التوضيح: Lasting habits come from slow adjustments."
+  },
+  {
+    "id": 245,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"During droughts, cities sometimes restrict outdoor watering. These limits can preserve supplies for essential uses like drinking and hospitals.\"\nQuestion: Purpose of restrictions?",
+    "options": [
+      "To conserve water for essential needs",
+      "To improve rainfall",
+      "To stop drinking water",
+      "To increase water use"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "التوضيح: Conserve water for essentials."
+  },
+  {
+    "id": 246,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Automation can reduce repetitive work, but workers may need training to manage new tools. Companies that invest in training report smoother transitions.\"\nQuestion: What helps transitions?",
+    "options": [
+      "Hiring without training",
+      "Avoiding automation",
+      "Reducing tools",
+      "Providing training for new tools"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: Training helps."
+  },
+  {
+    "id": 247,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Cities with more trees often record lower street temperatures. Shade reduces direct sunlight, and evaporation from leaves can cool the surrounding air.\"\nQuestion: Why do trees help cities?",
+    "options": [
+      "They cool areas through shade and evaporation",
+      "They block rainfall",
+      "They increase sunlight",
+      "They raise humidity without cooling"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "التوضيح: The passage lists two cooling mechanisms."
+  },
+  {
+    "id": 248,
+    "section": "Reading",
+    "difficulty": 2,
+    "prompt": "Passage: \"During droughts, cities sometimes restrict outdoor watering. These limits can preserve supplies for essential uses like drinking and hospitals.\"\nQuestion: Purpose of restrictions?",
+    "options": [
+      "To stop drinking water",
+      "To improve rainfall",
+      "To increase water use",
+      "To conserve water for essential needs"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: Conserve water for essentials."
+  },
+  {
+    "id": 249,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Cities with more trees often record lower street temperatures. Shade reduces direct sunlight, and evaporation from leaves can cool the surrounding air.\"\nQuestion: Why do trees help cities?",
+    "options": [
+      "They block rainfall",
+      "They increase sunlight",
+      "They raise humidity without cooling",
+      "They cool areas through shade and evaporation"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: The passage lists two cooling mechanisms."
+  },
+  {
+    "id": 250,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Cities with more trees often record lower street temperatures. Shade reduces direct sunlight, and evaporation from leaves can cool the surrounding air.\"\nQuestion: Why do trees help cities?",
+    "options": [
+      "They cool areas through shade and evaporation",
+      "They increase sunlight",
+      "They block rainfall",
+      "They raise humidity without cooling"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "التوضيح: The passage lists two cooling mechanisms."
+  },
+  {
+    "id": 251,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Protecting a species often requires protecting its habitat. If forests are removed, conservation programs may fail even when hunting is controlled.\"\nQuestion: Which is true?",
+    "options": [
+      "Programs always succeed",
+      "Hunting is the only issue",
+      "Forests are unrelated",
+      "Habitat protection is essential for conservation"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: Habitat protection is essential."
+  },
+  {
+    "id": 252,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Sleep researchers found that consistent bedtimes were linked to better memory. Students with irregular schedules scored lower even when they slept the same total hours.\"\nQuestion: What is the best conclusion?",
+    "options": [
+      "Memory cannot be improved",
+      "Students should sleep less",
+      "Total hours are the only factor",
+      "Consistency in sleep schedule may matter as much as total sleep time"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: The key comparison is consistent vs irregular schedules."
+  },
+  {
+    "id": 253,
+    "section": "Reading",
+    "difficulty": 5,
+    "prompt": "Passage: \"During droughts, cities sometimes restrict outdoor watering. These limits can preserve supplies for essential uses like drinking and hospitals.\"\nQuestion: Purpose of restrictions?",
+    "options": [
+      "To increase water use",
+      "To stop drinking water",
+      "To conserve water for essential needs",
+      "To improve rainfall"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "التوضيح: Conserve water for essentials."
+  },
+  {
+    "id": 254,
+    "section": "Reading",
+    "difficulty": 5,
+    "prompt": "Passage: \"Cities with more trees often record lower street temperatures. Shade reduces direct sunlight, and evaporation from leaves can cool the surrounding air.\"\nQuestion: Why do trees help cities?",
+    "options": [
+      "They raise humidity without cooling",
+      "They increase sunlight",
+      "They block rainfall",
+      "They cool areas through shade and evaporation"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: The passage lists two cooling mechanisms."
+  },
+  {
+    "id": 255,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Solar panels produce electricity without burning fuel. However, their output depends on sunlight, so storage systems are often used to supply power at night.\"\nQuestion: What challenge is mentioned?",
+    "options": [
+      "Storage works only during the day",
+      "Solar output varies, so storage may be needed",
+      "Solar panels cannot produce electricity",
+      "Fuel is always required"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "التوضيح: Dependence on sunlight is the challenge."
+  },
+  {
+    "id": 256,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Protecting a species often requires protecting its habitat. If forests are removed, conservation programs may fail even when hunting is controlled.\"\nQuestion: Which is true?",
+    "options": [
+      "Programs always succeed",
+      "Habitat protection is essential for conservation",
+      "Forests are unrelated",
+      "Hunting is the only issue"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "التوضيح: Habitat protection is essential."
+  },
+  {
+    "id": 257,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Nutritionists recommend adding vegetables gradually rather than making drastic changes overnight. Slow adjustments are more likely to become lasting habits.\"\nQuestion: Why gradual change?",
+    "options": [
+      "It requires no planning",
+      "It is cheaper",
+      "It is easier to maintain as a habit",
+      "It prevents all cravings immediately"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "التوضيح: Lasting habits come from slow adjustments."
+  },
+  {
+    "id": 258,
+    "section": "Reading",
+    "difficulty": 2,
+    "prompt": "Passage: \"Automation can reduce repetitive work, but workers may need training to manage new tools. Companies that invest in training report smoother transitions.\"\nQuestion: What helps transitions?",
+    "options": [
+      "Reducing tools",
+      "Providing training for new tools",
+      "Hiring without training",
+      "Avoiding automation"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "التوضيح: Training helps."
+  },
+  {
+    "id": 259,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Automation can reduce repetitive work, but workers may need training to manage new tools. Companies that invest in training report smoother transitions.\"\nQuestion: What helps transitions?",
+    "options": [
+      "Providing training for new tools",
+      "Avoiding automation",
+      "Reducing tools",
+      "Hiring without training"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "التوضيح: Training helps."
+  },
+  {
+    "id": 260,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"During droughts, cities sometimes restrict outdoor watering. These limits can preserve supplies for essential uses like drinking and hospitals.\"\nQuestion: Purpose of restrictions?",
+    "options": [
+      "To improve rainfall",
+      "To stop drinking water",
+      "To increase water use",
+      "To conserve water for essential needs"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: Conserve water for essentials."
+  },
+  {
+    "id": 261,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Sleep researchers found that consistent bedtimes were linked to better memory. Students with irregular schedules scored lower even when they slept the same total hours.\"\nQuestion: What is the best conclusion?",
+    "options": [
+      "Memory cannot be improved",
+      "Total hours are the only factor",
+      "Consistency in sleep schedule may matter as much as total sleep time",
+      "Students should sleep less"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "التوضيح: The key comparison is consistent vs irregular schedules."
+  },
+  {
+    "id": 262,
+    "section": "Reading",
+    "difficulty": 5,
+    "prompt": "Passage: \"During droughts, cities sometimes restrict outdoor watering. These limits can preserve supplies for essential uses like drinking and hospitals.\"\nQuestion: Purpose of restrictions?",
+    "options": [
+      "To conserve water for essential needs",
+      "To stop drinking water",
+      "To increase water use",
+      "To improve rainfall"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "التوضيح: Conserve water for essentials."
+  },
+  {
+    "id": 263,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Automation can reduce repetitive work, but workers may need training to manage new tools. Companies that invest in training report smoother transitions.\"\nQuestion: What helps transitions?",
+    "options": [
+      "Reducing tools",
+      "Hiring without training",
+      "Avoiding automation",
+      "Providing training for new tools"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: Training helps."
+  },
+  {
+    "id": 264,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Cities with more trees often record lower street temperatures. Shade reduces direct sunlight, and evaporation from leaves can cool the surrounding air.\"\nQuestion: Why do trees help cities?",
+    "options": [
+      "They increase sunlight",
+      "They raise humidity without cooling",
+      "They cool areas through shade and evaporation",
+      "They block rainfall"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "التوضيح: The passage lists two cooling mechanisms."
+  },
+  {
+    "id": 265,
+    "section": "Reading",
+    "difficulty": 2,
+    "prompt": "Passage: \"Solar panels produce electricity without burning fuel. However, their output depends on sunlight, so storage systems are often used to supply power at night.\"\nQuestion: What challenge is mentioned?",
+    "options": [
+      "Fuel is always required",
+      "Solar output varies, so storage may be needed",
+      "Solar panels cannot produce electricity",
+      "Storage works only during the day"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "التوضيح: Dependence on sunlight is the challenge."
+  },
+  {
+    "id": 266,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Expanding bus routes can reduce traffic, but only if schedules are reliable. When buses arrive unpredictably, commuters return to private cars.\"\nQuestion: What is the key condition?",
+    "options": [
+      "Bus routes should be shorter",
+      "Cars are faster than buses",
+      "Reliable schedules encourage people to use buses",
+      "Traffic cannot be reduced"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "التوضيح: Reliability determines adoption."
+  },
+  {
+    "id": 267,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Sleep researchers found that consistent bedtimes were linked to better memory. Students with irregular schedules scored lower even when they slept the same total hours.\"\nQuestion: What is the best conclusion?",
+    "options": [
+      "Students should sleep less",
+      "Total hours are the only factor",
+      "Consistency in sleep schedule may matter as much as total sleep time",
+      "Memory cannot be improved"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "التوضيح: The key comparison is consistent vs irregular schedules."
+  },
+  {
+    "id": 268,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Cities with more trees often record lower street temperatures. Shade reduces direct sunlight, and evaporation from leaves can cool the surrounding air.\"\nQuestion: Why do trees help cities?",
+    "options": [
+      "They increase sunlight",
+      "They raise humidity without cooling",
+      "They cool areas through shade and evaporation",
+      "They block rainfall"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "التوضيح: The passage lists two cooling mechanisms."
+  },
+  {
+    "id": 269,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"During droughts, cities sometimes restrict outdoor watering. These limits can preserve supplies for essential uses like drinking and hospitals.\"\nQuestion: Purpose of restrictions?",
+    "options": [
+      "To improve rainfall",
+      "To stop drinking water",
+      "To increase water use",
+      "To conserve water for essential needs"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: Conserve water for essentials."
+  },
+  {
+    "id": 270,
+    "section": "Reading",
+    "difficulty": 2,
+    "prompt": "Passage: \"Protecting a species often requires protecting its habitat. If forests are removed, conservation programs may fail even when hunting is controlled.\"\nQuestion: Which is true?",
+    "options": [
+      "Programs always succeed",
+      "Hunting is the only issue",
+      "Forests are unrelated",
+      "Habitat protection is essential for conservation"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: Habitat protection is essential."
+  },
+  {
+    "id": 271,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Online courses can offer flexibility, but learners may need strong self‑discipline. Without a routine, many postpone lessons and fall behind.\"\nQuestion: What does the passage suggest?",
+    "options": [
+      "Online learning is always easier",
+      "Routines are unnecessary",
+      "Postponing improves results",
+      "Flexibility requires self‑discipline to succeed"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: It contrasts flexibility with discipline."
+  },
+  {
+    "id": 272,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Some companies redesign packaging to use less plastic. Even small reductions can lower waste because millions of units are sold each month.\"\nQuestion: What is emphasized?",
+    "options": [
+      "Packaging cannot be redesigned",
+      "Sales are decreasing",
+      "Plastic is always recyclable",
+      "Small changes can have large effects at scale"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: Scale makes small reductions impactful."
+  },
+  {
+    "id": 273,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Online courses can offer flexibility, but learners may need strong self‑discipline. Without a routine, many postpone lessons and fall behind.\"\nQuestion: What does the passage suggest?",
+    "options": [
+      "Online learning is always easier",
+      "Postponing improves results",
+      "Routines are unnecessary",
+      "Flexibility requires self‑discipline to succeed"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: It contrasts flexibility with discipline."
+  },
+  {
+    "id": 274,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"During droughts, cities sometimes restrict outdoor watering. These limits can preserve supplies for essential uses like drinking and hospitals.\"\nQuestion: Purpose of restrictions?",
+    "options": [
+      "To improve rainfall",
+      "To conserve water for essential needs",
+      "To stop drinking water",
+      "To increase water use"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "التوضيح: Conserve water for essentials."
+  },
+  {
+    "id": 275,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Nutritionists recommend adding vegetables gradually rather than making drastic changes overnight. Slow adjustments are more likely to become lasting habits.\"\nQuestion: Why gradual change?",
+    "options": [
+      "It is easier to maintain as a habit",
+      "It prevents all cravings immediately",
+      "It requires no planning",
+      "It is cheaper"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "التوضيح: Lasting habits come from slow adjustments."
+  },
+  {
+    "id": 276,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Cities with more trees often record lower street temperatures. Shade reduces direct sunlight, and evaporation from leaves can cool the surrounding air.\"\nQuestion: Why do trees help cities?",
+    "options": [
+      "They raise humidity without cooling",
+      "They block rainfall",
+      "They cool areas through shade and evaporation",
+      "They increase sunlight"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "التوضيح: The passage lists two cooling mechanisms."
+  },
+  {
+    "id": 277,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Expanding bus routes can reduce traffic, but only if schedules are reliable. When buses arrive unpredictably, commuters return to private cars.\"\nQuestion: What is the key condition?",
+    "options": [
+      "Cars are faster than buses",
+      "Traffic cannot be reduced",
+      "Bus routes should be shorter",
+      "Reliable schedules encourage people to use buses"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: Reliability determines adoption."
+  },
+  {
+    "id": 278,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Some companies redesign packaging to use less plastic. Even small reductions can lower waste because millions of units are sold each month.\"\nQuestion: What is emphasized?",
+    "options": [
+      "Sales are decreasing",
+      "Small changes can have large effects at scale",
+      "Packaging cannot be redesigned",
+      "Plastic is always recyclable"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "التوضيح: Scale makes small reductions impactful."
+  },
+  {
+    "id": 279,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Nutritionists recommend adding vegetables gradually rather than making drastic changes overnight. Slow adjustments are more likely to become lasting habits.\"\nQuestion: Why gradual change?",
+    "options": [
+      "It requires no planning",
+      "It is easier to maintain as a habit",
+      "It is cheaper",
+      "It prevents all cravings immediately"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "التوضيح: Lasting habits come from slow adjustments."
+  },
+  {
+    "id": 280,
+    "section": "Reading",
+    "difficulty": 5,
+    "prompt": "Passage: \"Cities with more trees often record lower street temperatures. Shade reduces direct sunlight, and evaporation from leaves can cool the surrounding air.\"\nQuestion: Why do trees help cities?",
+    "options": [
+      "They block rainfall",
+      "They raise humidity without cooling",
+      "They increase sunlight",
+      "They cool areas through shade and evaporation"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: The passage lists two cooling mechanisms."
+  },
+  {
+    "id": 281,
+    "section": "Reading",
+    "difficulty": 5,
+    "prompt": "Passage: \"Solar panels produce electricity without burning fuel. However, their output depends on sunlight, so storage systems are often used to supply power at night.\"\nQuestion: What challenge is mentioned?",
+    "options": [
+      "Fuel is always required",
+      "Solar output varies, so storage may be needed",
+      "Storage works only during the day",
+      "Solar panels cannot produce electricity"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "التوضيح: Dependence on sunlight is the challenge."
+  },
+  {
+    "id": 282,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Nutritionists recommend adding vegetables gradually rather than making drastic changes overnight. Slow adjustments are more likely to become lasting habits.\"\nQuestion: Why gradual change?",
+    "options": [
+      "It requires no planning",
+      "It is easier to maintain as a habit",
+      "It prevents all cravings immediately",
+      "It is cheaper"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "التوضيح: Lasting habits come from slow adjustments."
+  },
+  {
+    "id": 283,
+    "section": "Reading",
+    "difficulty": 5,
+    "prompt": "Passage: \"Sleep researchers found that consistent bedtimes were linked to better memory. Students with irregular schedules scored lower even when they slept the same total hours.\"\nQuestion: What is the best conclusion?",
+    "options": [
+      "Memory cannot be improved",
+      "Total hours are the only factor",
+      "Consistency in sleep schedule may matter as much as total sleep time",
+      "Students should sleep less"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "التوضيح: The key comparison is consistent vs irregular schedules."
+  },
+  {
+    "id": 284,
+    "section": "Reading",
+    "difficulty": 2,
+    "prompt": "Passage: \"Expanding bus routes can reduce traffic, but only if schedules are reliable. When buses arrive unpredictably, commuters return to private cars.\"\nQuestion: What is the key condition?",
+    "options": [
+      "Reliable schedules encourage people to use buses",
+      "Bus routes should be shorter",
+      "Traffic cannot be reduced",
+      "Cars are faster than buses"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "التوضيح: Reliability determines adoption."
+  },
+  {
+    "id": 285,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Automation can reduce repetitive work, but workers may need training to manage new tools. Companies that invest in training report smoother transitions.\"\nQuestion: What helps transitions?",
+    "options": [
+      "Hiring without training",
+      "Avoiding automation",
+      "Reducing tools",
+      "Providing training for new tools"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: Training helps."
+  },
+  {
+    "id": 286,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Cities with more trees often record lower street temperatures. Shade reduces direct sunlight, and evaporation from leaves can cool the surrounding air.\"\nQuestion: Why do trees help cities?",
+    "options": [
+      "They block rainfall",
+      "They increase sunlight",
+      "They cool areas through shade and evaporation",
+      "They raise humidity without cooling"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "التوضيح: The passage lists two cooling mechanisms."
+  },
+  {
+    "id": 287,
+    "section": "Reading",
+    "difficulty": 2,
+    "prompt": "Passage: \"Automation can reduce repetitive work, but workers may need training to manage new tools. Companies that invest in training report smoother transitions.\"\nQuestion: What helps transitions?",
+    "options": [
+      "Reducing tools",
+      "Providing training for new tools",
+      "Hiring without training",
+      "Avoiding automation"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "التوضيح: Training helps."
+  },
+  {
+    "id": 288,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Nutritionists recommend adding vegetables gradually rather than making drastic changes overnight. Slow adjustments are more likely to become lasting habits.\"\nQuestion: Why gradual change?",
+    "options": [
+      "It is easier to maintain as a habit",
+      "It prevents all cravings immediately",
+      "It requires no planning",
+      "It is cheaper"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "التوضيح: Lasting habits come from slow adjustments."
+  },
+  {
+    "id": 289,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Cities with more trees often record lower street temperatures. Shade reduces direct sunlight, and evaporation from leaves can cool the surrounding air.\"\nQuestion: Why do trees help cities?",
+    "options": [
+      "They cool areas through shade and evaporation",
+      "They raise humidity without cooling",
+      "They block rainfall",
+      "They increase sunlight"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "التوضيح: The passage lists two cooling mechanisms."
+  },
+  {
+    "id": 290,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Automation can reduce repetitive work, but workers may need training to manage new tools. Companies that invest in training report smoother transitions.\"\nQuestion: What helps transitions?",
+    "options": [
+      "Avoiding automation",
+      "Reducing tools",
+      "Providing training for new tools",
+      "Hiring without training"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "التوضيح: Training helps."
+  },
+  {
+    "id": 291,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Sleep researchers found that consistent bedtimes were linked to better memory. Students with irregular schedules scored lower even when they slept the same total hours.\"\nQuestion: What is the best conclusion?",
+    "options": [
+      "Students should sleep less",
+      "Total hours are the only factor",
+      "Consistency in sleep schedule may matter as much as total sleep time",
+      "Memory cannot be improved"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "التوضيح: The key comparison is consistent vs irregular schedules."
+  },
+  {
+    "id": 292,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Sleep researchers found that consistent bedtimes were linked to better memory. Students with irregular schedules scored lower even when they slept the same total hours.\"\nQuestion: What is the best conclusion?",
+    "options": [
+      "Consistency in sleep schedule may matter as much as total sleep time",
+      "Total hours are the only factor",
+      "Memory cannot be improved",
+      "Students should sleep less"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "التوضيح: The key comparison is consistent vs irregular schedules."
+  },
+  {
+    "id": 293,
+    "section": "Reading",
+    "difficulty": 2,
+    "prompt": "Passage: \"Expanding bus routes can reduce traffic, but only if schedules are reliable. When buses arrive unpredictably, commuters return to private cars.\"\nQuestion: What is the key condition?",
+    "options": [
+      "Cars are faster than buses",
+      "Traffic cannot be reduced",
+      "Bus routes should be shorter",
+      "Reliable schedules encourage people to use buses"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: Reliability determines adoption."
+  },
+  {
+    "id": 294,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Some companies redesign packaging to use less plastic. Even small reductions can lower waste because millions of units are sold each month.\"\nQuestion: What is emphasized?",
+    "options": [
+      "Sales are decreasing",
+      "Small changes can have large effects at scale",
+      "Plastic is always recyclable",
+      "Packaging cannot be redesigned"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "التوضيح: Scale makes small reductions impactful."
+  },
+  {
+    "id": 295,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Online courses can offer flexibility, but learners may need strong self‑discipline. Without a routine, many postpone lessons and fall behind.\"\nQuestion: What does the passage suggest?",
+    "options": [
+      "Flexibility requires self‑discipline to succeed",
+      "Routines are unnecessary",
+      "Online learning is always easier",
+      "Postponing improves results"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "التوضيح: It contrasts flexibility with discipline."
+  },
+  {
+    "id": 296,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Protecting a species often requires protecting its habitat. If forests are removed, conservation programs may fail even when hunting is controlled.\"\nQuestion: Which is true?",
+    "options": [
+      "Habitat protection is essential for conservation",
+      "Programs always succeed",
+      "Hunting is the only issue",
+      "Forests are unrelated"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "التوضيح: Habitat protection is essential."
+  },
+  {
+    "id": 297,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Solar panels produce electricity without burning fuel. However, their output depends on sunlight, so storage systems are often used to supply power at night.\"\nQuestion: What challenge is mentioned?",
+    "options": [
+      "Solar panels cannot produce electricity",
+      "Storage works only during the day",
+      "Fuel is always required",
+      "Solar output varies, so storage may be needed"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: Dependence on sunlight is the challenge."
+  },
+  {
+    "id": 298,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Some companies redesign packaging to use less plastic. Even small reductions can lower waste because millions of units are sold each month.\"\nQuestion: What is emphasized?",
+    "options": [
+      "Small changes can have large effects at scale",
+      "Plastic is always recyclable",
+      "Sales are decreasing",
+      "Packaging cannot be redesigned"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "التوضيح: Scale makes small reductions impactful."
+  },
+  {
+    "id": 299,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Nutritionists recommend adding vegetables gradually rather than making drastic changes overnight. Slow adjustments are more likely to become lasting habits.\"\nQuestion: Why gradual change?",
+    "options": [
+      "It prevents all cravings immediately",
+      "It requires no planning",
+      "It is easier to maintain as a habit",
+      "It is cheaper"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "التوضيح: Lasting habits come from slow adjustments."
+  },
+  {
+    "id": 300,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Solar panels produce electricity without burning fuel. However, their output depends on sunlight, so storage systems are often used to supply power at night.\"\nQuestion: What challenge is mentioned?",
+    "options": [
+      "Solar output varies, so storage may be needed",
+      "Solar panels cannot produce electricity",
+      "Storage works only during the day",
+      "Fuel is always required"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "التوضيح: Dependence on sunlight is the challenge."
+  },
+  {
+    "id": 301,
+    "section": "Reading",
+    "difficulty": 5,
+    "prompt": "Passage: \"Automation can reduce repetitive work, but workers may need training to manage new tools. Companies that invest in training report smoother transitions.\"\nQuestion: What helps transitions?",
+    "options": [
+      "Providing training for new tools",
+      "Avoiding automation",
+      "Hiring without training",
+      "Reducing tools"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "التوضيح: Training helps."
+  },
+  {
+    "id": 302,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Online courses can offer flexibility, but learners may need strong self‑discipline. Without a routine, many postpone lessons and fall behind.\"\nQuestion: What does the passage suggest?",
+    "options": [
+      "Postponing improves results",
+      "Flexibility requires self‑discipline to succeed",
+      "Online learning is always easier",
+      "Routines are unnecessary"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "التوضيح: It contrasts flexibility with discipline."
+  },
+  {
+    "id": 303,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"During droughts, cities sometimes restrict outdoor watering. These limits can preserve supplies for essential uses like drinking and hospitals.\"\nQuestion: Purpose of restrictions?",
+    "options": [
+      "To increase water use",
+      "To stop drinking water",
+      "To conserve water for essential needs",
+      "To improve rainfall"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "التوضيح: Conserve water for essentials."
+  },
+  {
+    "id": 304,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Solar panels produce electricity without burning fuel. However, their output depends on sunlight, so storage systems are often used to supply power at night.\"\nQuestion: What challenge is mentioned?",
+    "options": [
+      "Solar panels cannot produce electricity",
+      "Solar output varies, so storage may be needed",
+      "Fuel is always required",
+      "Storage works only during the day"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "التوضيح: Dependence on sunlight is the challenge."
+  },
+  {
+    "id": 305,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Expanding bus routes can reduce traffic, but only if schedules are reliable. When buses arrive unpredictably, commuters return to private cars.\"\nQuestion: What is the key condition?",
+    "options": [
+      "Bus routes should be shorter",
+      "Reliable schedules encourage people to use buses",
+      "Cars are faster than buses",
+      "Traffic cannot be reduced"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "التوضيح: Reliability determines adoption."
+  },
+  {
+    "id": 306,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Online courses can offer flexibility, but learners may need strong self‑discipline. Without a routine, many postpone lessons and fall behind.\"\nQuestion: What does the passage suggest?",
+    "options": [
+      "Postponing improves results",
+      "Online learning is always easier",
+      "Routines are unnecessary",
+      "Flexibility requires self‑discipline to succeed"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: It contrasts flexibility with discipline."
+  },
+  {
+    "id": 307,
+    "section": "Reading",
+    "difficulty": 5,
+    "prompt": "Passage: \"Online courses can offer flexibility, but learners may need strong self‑discipline. Without a routine, many postpone lessons and fall behind.\"\nQuestion: What does the passage suggest?",
+    "options": [
+      "Routines are unnecessary",
+      "Online learning is always easier",
+      "Flexibility requires self‑discipline to succeed",
+      "Postponing improves results"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "التوضيح: It contrasts flexibility with discipline."
+  },
+  {
+    "id": 308,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Automation can reduce repetitive work, but workers may need training to manage new tools. Companies that invest in training report smoother transitions.\"\nQuestion: What helps transitions?",
+    "options": [
+      "Providing training for new tools",
+      "Hiring without training",
+      "Avoiding automation",
+      "Reducing tools"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "التوضيح: Training helps."
+  },
+  {
+    "id": 309,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Some companies redesign packaging to use less plastic. Even small reductions can lower waste because millions of units are sold each month.\"\nQuestion: What is emphasized?",
+    "options": [
+      "Sales are decreasing",
+      "Packaging cannot be redesigned",
+      "Plastic is always recyclable",
+      "Small changes can have large effects at scale"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: Scale makes small reductions impactful."
+  },
+  {
+    "id": 310,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Automation can reduce repetitive work, but workers may need training to manage new tools. Companies that invest in training report smoother transitions.\"\nQuestion: What helps transitions?",
+    "options": [
+      "Hiring without training",
+      "Avoiding automation",
+      "Providing training for new tools",
+      "Reducing tools"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "التوضيح: Training helps."
+  },
+  {
+    "id": 311,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Sleep researchers found that consistent bedtimes were linked to better memory. Students with irregular schedules scored lower even when they slept the same total hours.\"\nQuestion: What is the best conclusion?",
+    "options": [
+      "Total hours are the only factor",
+      "Memory cannot be improved",
+      "Students should sleep less",
+      "Consistency in sleep schedule may matter as much as total sleep time"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: The key comparison is consistent vs irregular schedules."
+  },
+  {
+    "id": 312,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Protecting a species often requires protecting its habitat. If forests are removed, conservation programs may fail even when hunting is controlled.\"\nQuestion: Which is true?",
+    "options": [
+      "Programs always succeed",
+      "Habitat protection is essential for conservation",
+      "Hunting is the only issue",
+      "Forests are unrelated"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "التوضيح: Habitat protection is essential."
+  },
+  {
+    "id": 313,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"During droughts, cities sometimes restrict outdoor watering. These limits can preserve supplies for essential uses like drinking and hospitals.\"\nQuestion: Purpose of restrictions?",
+    "options": [
+      "To improve rainfall",
+      "To conserve water for essential needs",
+      "To stop drinking water",
+      "To increase water use"
+    ],
+    "correctIndex": 1,
+    "explanationAr": "التوضيح: Conserve water for essentials."
+  },
+  {
+    "id": 314,
+    "section": "Reading",
+    "difficulty": 4,
+    "prompt": "Passage: \"Cities with more trees often record lower street temperatures. Shade reduces direct sunlight, and evaporation from leaves can cool the surrounding air.\"\nQuestion: Why do trees help cities?",
+    "options": [
+      "They increase sunlight",
+      "They block rainfall",
+      "They raise humidity without cooling",
+      "They cool areas through shade and evaporation"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: The passage lists two cooling mechanisms."
+  },
+  {
+    "id": 315,
+    "section": "Reading",
+    "difficulty": 5,
+    "prompt": "Passage: \"Cities with more trees often record lower street temperatures. Shade reduces direct sunlight, and evaporation from leaves can cool the surrounding air.\"\nQuestion: Why do trees help cities?",
+    "options": [
+      "They cool areas through shade and evaporation",
+      "They increase sunlight",
+      "They block rainfall",
+      "They raise humidity without cooling"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "التوضيح: The passage lists two cooling mechanisms."
+  },
+  {
+    "id": 316,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"During droughts, cities sometimes restrict outdoor watering. These limits can preserve supplies for essential uses like drinking and hospitals.\"\nQuestion: Purpose of restrictions?",
+    "options": [
+      "To improve rainfall",
+      "To stop drinking water",
+      "To increase water use",
+      "To conserve water for essential needs"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: Conserve water for essentials."
+  },
+  {
+    "id": 317,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Online courses can offer flexibility, but learners may need strong self‑discipline. Without a routine, many postpone lessons and fall behind.\"\nQuestion: What does the passage suggest?",
+    "options": [
+      "Online learning is always easier",
+      "Routines are unnecessary",
+      "Postponing improves results",
+      "Flexibility requires self‑discipline to succeed"
+    ],
+    "correctIndex": 3,
+    "explanationAr": "التوضيح: It contrasts flexibility with discipline."
+  },
+  {
+    "id": 318,
+    "section": "Reading",
+    "difficulty": 2,
+    "prompt": "Passage: \"Solar panels produce electricity without burning fuel. However, their output depends on sunlight, so storage systems are often used to supply power at night.\"\nQuestion: What challenge is mentioned?",
+    "options": [
+      "Solar output varies, so storage may be needed",
+      "Solar panels cannot produce electricity",
+      "Fuel is always required",
+      "Storage works only during the day"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "التوضيح: Dependence on sunlight is the challenge."
+  },
+  {
+    "id": 319,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Cities with more trees often record lower street temperatures. Shade reduces direct sunlight, and evaporation from leaves can cool the surrounding air.\"\nQuestion: Why do trees help cities?",
+    "options": [
+      "They cool areas through shade and evaporation",
+      "They raise humidity without cooling",
+      "They block rainfall",
+      "They increase sunlight"
+    ],
+    "correctIndex": 0,
+    "explanationAr": "التوضيح: The passage lists two cooling mechanisms."
+  },
+  {
+    "id": 320,
+    "section": "Reading",
+    "difficulty": 3,
+    "prompt": "Passage: \"Automation can reduce repetitive work, but workers may need training to manage new tools. Companies that invest in training report smoother transitions.\"\nQuestion: What helps transitions?",
+    "options": [
+      "Hiring without training",
+      "Reducing tools",
+      "Providing training for new tools",
+      "Avoiding automation"
+    ],
+    "correctIndex": 2,
+    "explanationAr": "التوضيح: Training helps."
+  }
+]
